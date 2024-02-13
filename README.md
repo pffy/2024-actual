@@ -1,4 +1,4 @@
-# Results of Predictions for 2023
+# Results of Predictions for 2024
 
 This repo compares actual outcomes to [predictions for 2024](https://github.com/pffy/2024).
 
