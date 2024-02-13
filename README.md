@@ -18,6 +18,7 @@ We predicted in 2024:
   + State legislatures abolish several unified school districts.
   + State legislatures add private schools to education finance mandates.
   + Arizona State University is required by newly-passed state law to change mascot from the sun devil to the sun angel.
+    + ***PENDING: [Bill in Arizona legislature proposes banning devil imagery in public](https://www.azfamily.com/2024/02/08/bill-ban-displays-satan-public-property-moves-forward-senate/).***
   + [Dragnet](https://www.youtube.com/watch?v=Hj-qhIGTXdU) reboot.
   + [Chris Hemsworth](https://twitter.com/chrishemsworth) pitches [Gevalia coffee](https://www.youtube.com/watch?v=UmgPsiUvfq8) as Thor.
   + Several U.S. states close their borders to interstate traffic.
