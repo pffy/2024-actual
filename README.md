@@ -7,6 +7,7 @@ We predicted in 2024:
   * UPS buys FedEx.
   * Google shuts down Google Drive and Google Workspace.
   * Google shuts down Google Jamboard.
+    * ***In September 2023, [Google announced Jamboard would shut down](https://www.theverge.com/2023/9/28/23894509/google-jamboard-whiteboarding-app-graveyard), as reported by Umar Shakir at the Verge.***
   * [Evangeline Lilly](https://twitter.com/evangelinelilly) is cast as AEon Flux
   * [Caroline Catz](https://twitter.com/catzcaroline) is cast as Princess Leia -- with a lightsaber.
   + U.S. Supreme Court (SCOTUS) rules that the use of motorized leaf blowers -- regardless of noise level or context -- is [protected speech](https://www.youtube.com/watch?v=V2f-MZ2HRHQ).
