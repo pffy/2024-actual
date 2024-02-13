@@ -1,8 +1,8 @@
-# Predictions for 2024
+# Results of Predictions for 2023
 
-The following [predictions](https://www.youtube.com/watch?v=lSPNQ82Sq4E) are the results of economic modeling, machine learning, meaning-making from qualitative research, and when the chances are even -- coin flips.
+This repo compares actual outcomes to [predictions for 2024](https://github.com/pffy/2024).
 
-In 2024:
+We predicted in 2024:
   
   * UPS buys FedEx.
   * Google shuts down Google Drive and Google Workspace.
